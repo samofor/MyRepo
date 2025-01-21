@@ -87,11 +87,8 @@ git push -u origin main
 ```
 
 ## 總結
-這份指南教你如何在本地端建立新的 Git repository，並將其推送到 GitHub。希望這對你的學習有幫助！如果有任何問題，隨時告訴我！
+這份指南教你如何在本地端建立新的 Git repository，並將其推送到 GitHub。
 
-```sh
-你可以將以上內容複製到一個Markdown文件（例如：`create-and-push-repo.md`）中，然後下載或使用Markdown查看器來閱讀。希望這對你的學習有幫助！
-```
 
 ## 補充資料對照用
 

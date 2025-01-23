@@ -100,6 +100,9 @@ git commit -m "first commit"
 git branch -M main
 
 ## 掛入遠端Repo(事先用線上GitHub建好)
-git remote add origin https://github.com/samofor/MyTemp.git
+git remote add origin https://github.com/samofor/MyRepoNew.git
+git add .
+git commit -m "First commit" 
+git branch -M main
 git push -u origin main
 ```
